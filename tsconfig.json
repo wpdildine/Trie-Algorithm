@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "module": "classic",
+        "moduleResolution": "node",
+        "target": "es5",
+        "sourceMap": true,
+        "types":["node"],
+        "moduleResolution": "node"
+    },
+    "files": [
+      "./node_modules/@types/node/index.d.ts"
+    ],
+    "include":[
+     "**/*",
+        "/"
+    ]
+
+}
